@@ -1,0 +1,3 @@
+#define THREAD_SIZE 4
+#define THREAD_PER_BLOCK 4
+
